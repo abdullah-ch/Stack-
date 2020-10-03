@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//did some changing 
 class Stack
 {
 
